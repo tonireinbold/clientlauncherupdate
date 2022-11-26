@@ -250,3 +250,5 @@
 [ 2022-11-24 10:57:35,560 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
 [ 2022-11-24 10:57:35,572 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
 [ 2022-11-24 10:57:36,481 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-26 16:23:21,682 ] Asset loading complete
+[ 2022-11-26 16:41:02,186 ] Asset loading complete
