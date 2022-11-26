@@ -4,31 +4,29 @@
         "contentMaximized": true
     },
     "battleListsOptions": {
-        "253": {
+        "0": {
             "battleListFilters": [
             ],
             "battleListSortOrder": [
-                "byAgeAscending",
-                "byAgeAscending"
-            ],
-            "contentHeight": 38,
-            "contentMaximized": true,
-            "isPartyView": true,
-            "isPrimary": false,
-            "name": "",
-            "showFilters": false
-        },
-        "254": {
-            "battleListFilters": [
-            ],
-            "battleListSortOrder": [
-                "byAgeAscending",
                 "byAgeAscending"
             ],
             "contentHeight": 38,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
+            "name": "",
+            "showFilters": false
+        },
+        "253": {
+            "battleListFilters": [
+            ],
+            "battleListSortOrder": [
+                "byAgeAscending"
+            ],
+            "contentHeight": 38,
+            "contentMaximized": true,
+            "isPartyView": true,
+            "isPrimary": false,
             "name": "",
             "showFilters": false
         }
@@ -99,10 +97,10 @@
         ]
     },
     "sidebarPanelsOptions": {
-        "chaseModeEnabled": false,
-        "combatMode": 1,
+        "chaseModeEnabled": true,
+        "combatMode": 2,
         "controlButtonsVisible": true,
-        "minimapZoomLevel": 100,
+        "minimapZoomLevel": 0,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -111,13 +109,17 @@
             [
                 {
                     "instance": 0,
+                    "type": "battleList"
+                },
+                {
+                    "instance": 0,
                     "type": "container"
                 }
             ]
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 441,
+        "contentHeight": 0,
         "contentMaximized": true,
         "invisibleProgressBars": [
         ]

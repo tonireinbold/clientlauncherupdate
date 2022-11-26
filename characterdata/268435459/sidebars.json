@@ -39,6 +39,11 @@
         "sortKey": "name",
         "sortOrder": "ascending"
     },
+    "bossTrackerWidgetOptions": {
+        "contentHeight": 0,
+        "contentMaximized": true,
+        "sortKey": "remainingCooldown"
+    },
     "containersOptions": {
     },
     "damageInputAnalyserWidgetOptions": {
@@ -67,11 +72,13 @@
         "contentMaximized": true
     },
     "npcTradeOptions": {
+        "allowLargeTradesWithoutWarning": false,
         "allowSellingEquippedItems": false,
         "contentHeight": 0,
         "contentMaximized": true,
         "ignoreCapacityWhenBuying": false,
         "purchaseShoppingBagWhenBuying": false,
+        "showNameFilter": true,
         "sortFieldWhenBuying": "name",
         "sortFieldWhenSelling": "amount"
     },
@@ -107,11 +114,11 @@
                     "type": "battleList"
                 },
                 {
-                    "instance": 0,
-                    "type": "container"
+                    "type": "skills"
                 },
                 {
-                    "type": "skills"
+                    "instance": 0,
+                    "type": "container"
                 }
             ]
         ]
@@ -131,7 +138,7 @@
         "showHealingSpellGroup": true,
         "showKnightSpells": true,
         "showOnlyCurrentLevel": false,
-        "showOnlyCurrentProfession": false,
+        "showOnlyCurrentVocation": false,
         "showPaladinSpells": true,
         "showPremiumOnlySpells": true,
         "showSorcererSpells": true,
