@@ -1,0 +1,252 @@
+[ 2022-04-27 03:13:09,382 ] Asset loading complete
+[ 2022-11-23 14:49:22,279 ] Asset loading complete
+[ 2022-11-23 14:49:24,838 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 14:49:26,181 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-23 14:49:26,182 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-11-23 14:49:26,182 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-11-23 14:49:26,243 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-11-23 14:49:26,249 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-11-23 14:49:26,260 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-11-23 14:49:26,271 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 14:49:26,275 ] Disconnected from gameserver
+[ 2022-11-23 14:49:26,610 ] Failed to write minimap tile at coordinate 32256 , 32000 , 7 to disk due to: I/O error on file 'C:/Users/tonir/OneDrive/Desktop/tibia-client-12.91.12329/minimap/Minimap_Color_32256_32000_7.png': Could not open file.
+[ 2022-11-23 14:49:26,611 ] Failed to write minimap tile at coordinate 32256 , 32256 , 7 to disk due to: I/O error on file 'C:/Users/tonir/OneDrive/Desktop/tibia-client-12.91.12329/minimap/Minimap_Color_32256_32256_7.png': Could not open file.
+[ 2022-11-23 14:49:27,236 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 14:49:28,258 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 14:49:43,740 ] Update failed. Please reinstall Tibia to update your client.
+[ 2022-11-23 14:49:50,893 ] Update failed. Please reinstall Tibia to update your client.
+[ 2022-11-23 14:57:19,962 ] Asset loading complete
+[ 2022-11-23 14:57:22,241 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 14:57:23,646 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-23 14:57:23,646 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-11-23 14:57:23,646 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-11-23 14:57:23,718 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-11-23 14:57:23,719 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
+[ 2022-11-23 14:57:23,734 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
+[ 2022-11-23 14:57:24,137 ] Failed to write minimap tile at coordinate 32256 , 32000 , 7 to disk due to: I/O error on file 'C:/Users/tonir/OneDrive/Desktop/tibia-client-12.91.12329/minimap/Minimap_Color_32256_32000_7.png': Could not open file.
+[ 2022-11-23 14:57:24,138 ] Failed to write minimap tile at coordinate 32256 , 32256 , 7 to disk due to: I/O error on file 'C:/Users/tonir/OneDrive/Desktop/tibia-client-12.91.12329/minimap/Minimap_Color_32256_32256_7.png': Could not open file.
+[ 2022-11-23 14:57:24,496 ] Failed to write minimap tile at coordinate 32256 , 32000 , 7 to disk due to: I/O error on file 'C:/Users/tonir/OneDrive/Desktop/tibia-client-12.91.12329/minimap/Minimap_Color_32256_32000_7.png': Could not open file.
+[ 2022-11-23 14:57:24,497 ] Failed to write minimap tile at coordinate 32256 , 32256 , 7 to disk due to: I/O error on file 'C:/Users/tonir/OneDrive/Desktop/tibia-client-12.91.12329/minimap/Minimap_Color_32256_32256_7.png': Could not open file.
+[ 2022-11-23 14:57:24,703 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 14:58:01,186 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 14:58:01,235 ] Disconnected from gameserver
+[ 2022-11-23 14:58:01,442 ] Failed to write minimap tile at coordinate 1792 , 1280 , 7 to disk due to: I/O error on file 'C:/Users/tonir/OneDrive/Desktop/tibia-client-12.91.12329/minimap/Minimap_Color_1792_1280_7.png': Could not open file.
+[ 2022-11-23 14:58:01,567 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 14:58:33,520 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 14:58:35,741 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-11-23 14:58:35,743 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
+[ 2022-11-23 14:58:35,754 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
+[ 2022-11-23 14:58:36,702 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 14:59:12,440 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 14:59:12,489 ] Disconnected from gameserver
+[ 2022-11-23 14:59:12,544 ] Failed to write minimap tile at coordinate 1792 , 1280 , 7 to disk due to: I/O error on file 'C:/Users/tonir/OneDrive/Desktop/tibia-client-12.91.12329/minimap/Minimap_Color_1792_1280_7.png': Could not open file.
+[ 2022-11-23 14:59:12,569 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 15:14:14,675 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 15:14:15,741 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-11-23 15:14:15,743 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
+[ 2022-11-23 15:14:15,754 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
+[ 2022-11-23 15:14:16,697 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 15:14:33,796 ] Failed to write minimap tile at coordinate 1792 , 1280 , 7 to disk due to: I/O error on file 'C:/Users/tonir/OneDrive/Desktop/tibia-client-12.91.12329/minimap/Minimap_Color_1792_1280_7.png': Could not open file.
+[ 2022-11-23 16:54:32,754 ] Asset loading complete
+[ 2022-11-23 16:56:43,546 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 16:56:45,131 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-23 16:56:45,131 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-11-23 16:56:45,131 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-11-23 16:56:45,235 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-11-23 16:56:45,243 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-11-23 16:56:45,254 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-11-23 16:56:46,186 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 16:57:38,667 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-11-23 16:57:38,667 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-11-23 16:57:38,668 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-11-23 17:22:09,761 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 17:22:09,833 ] Disconnected from gameserver
+[ 2022-11-23 17:22:11,662 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 17:23:42,617 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 17:23:43,730 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-11-23 17:23:43,732 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-11-23 17:23:43,743 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-11-23 17:23:44,687 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 17:26:16,251 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-11-23 17:26:16,251 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-11-23 17:26:16,251 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-11-23 17:26:38,096 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-11-23 17:26:38,096 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-11-23 17:26:38,097 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-11-23 17:28:03,414 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-11-23 17:28:03,414 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-11-23 17:28:03,414 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-11-23 17:30:47,013 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 17:30:47,067 ] Disconnected from gameserver
+[ 2022-11-23 17:38:36,523 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 17:38:37,641 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-11-23 17:38:37,643 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-11-23 17:38:37,656 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-11-23 17:38:37,657 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 17:38:37,664 ] Disconnected from gameserver
+[ 2022-11-23 17:38:38,558 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 17:38:39,364 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 17:38:40,604 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-11-23 17:38:40,606 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-11-23 17:38:40,618 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-11-23 17:38:40,660 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 17:38:40,666 ] Disconnected from gameserver
+[ 2022-11-23 17:38:41,530 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 17:38:41,669 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 17:38:44,781 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 17:38:46,046 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-11-23 17:38:46,057 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 17:38:46,068 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 17:38:46,996 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 17:43:24,315 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 17:43:24,369 ] Disconnected from gameserver
+[ 2022-11-23 17:43:24,415 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 17:43:59,769 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 17:44:01,185 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-11-23 17:44:01,188 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 17:44:01,199 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 17:44:02,123 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 17:53:06,561 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 17:53:06,618 ] Disconnected from gameserver
+[ 2022-11-23 17:53:06,715 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 17:53:17,102 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 17:53:19,062 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Toni Reinbold" )
+[ 2022-11-23 17:53:19,064 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 17:53:19,076 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 17:53:19,977 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 20:57:18,470 ] Asset loading complete
+[ 2022-11-23 20:57:22,460 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 20:57:23,853 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-23 20:57:23,853 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-11-23 20:57:23,853 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-11-23 20:57:23,950 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testador" )
+[ 2022-11-23 20:57:23,953 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 20:57:23,968 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 20:57:24,904 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 20:59:33,152 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073805639 found"
+[ 2022-11-23 21:02:55,652 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-11-23 21:02:55,653 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-11-23 21:02:55,653 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-11-23 21:23:44,108 ] Asset loading complete
+[ 2022-11-23 21:23:52,749 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 21:23:54,304 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-23 21:23:54,305 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-11-23 21:23:54,305 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-11-23 21:23:54,397 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testador" )
+[ 2022-11-23 21:23:54,402 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 21:23:54,403 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 21:23:55,352 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 21:32:08,847 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-11-23 21:32:08,847 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-11-23 21:32:08,847 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-11-23 21:36:56,912 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 21:36:56,964 ] Disconnected from gameserver
+[ 2022-11-23 21:36:57,278 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 21:36:59,253 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Toni Reinbold" )
+[ 2022-11-23 21:36:59,257 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 21:36:59,268 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 21:37:00,163 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 21:37:27,362 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 21:37:27,412 ] Disconnected from gameserver
+[ 2022-11-23 21:37:27,468 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 21:37:28,853 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testador" )
+[ 2022-11-23 21:37:28,855 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 21:37:28,867 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 21:37:29,764 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:01:17,665 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 22:01:17,718 ] Disconnected from gameserver
+[ 2022-11-23 22:01:17,776 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:01:19,862 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Toni Reinbold" )
+[ 2022-11-23 22:01:19,865 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:01:19,877 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:01:20,777 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:01:29,715 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 22:01:29,767 ] Disconnected from gameserver
+[ 2022-11-23 22:01:29,822 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:01:30,706 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testador" )
+[ 2022-11-23 22:01:30,710 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:01:30,723 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:01:31,605 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:08:38,716 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 22:08:38,766 ] Disconnected from gameserver
+[ 2022-11-23 22:08:38,820 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:10:30,528 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:10:31,710 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testador" )
+[ 2022-11-23 22:10:31,712 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:10:31,724 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:10:32,623 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:16:14,267 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 22:16:14,318 ] Disconnected from gameserver
+[ 2022-11-23 22:16:14,370 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:16:16,428 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Toni Reinbold" )
+[ 2022-11-23 22:16:16,431 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:16:16,443 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:16:17,372 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:16:21,863 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 22:16:21,919 ] Disconnected from gameserver
+[ 2022-11-23 22:16:21,977 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:16:23,262 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testador" )
+[ 2022-11-23 22:16:23,265 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:16:23,276 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:16:24,199 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:16:57,666 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 22:16:57,719 ] Disconnected from gameserver
+[ 2022-11-23 22:17:39,095 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:17:41,099 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testador" )
+[ 2022-11-23 22:17:41,101 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:17:41,113 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:17:42,040 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:23:30,217 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 22:23:30,268 ] Disconnected from gameserver
+[ 2022-11-23 22:23:30,317 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:23:31,283 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Toni Reinbold" )
+[ 2022-11-23 22:23:31,286 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:23:31,297 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:23:32,232 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:45:33,317 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-23 22:45:33,432 ] Disconnected from gameserver
+[ 2022-11-23 22:54:06,445 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:54:08,231 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testador" )
+[ 2022-11-23 22:54:08,233 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:54:09,168 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:54:12,264 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "Connection refused" )
+[ 2022-11-23 22:54:13,266 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:54:17,313 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "Connection refused" )
+[ 2022-11-23 22:54:17,319 ] Disconnected from gameserver
+[ 2022-11-23 22:54:18,531 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testador" )
+[ 2022-11-23 22:54:18,534 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:54:19,467 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-23 22:54:20,543 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:54:24,367 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-11-23 22:54:24,368 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-11-23 22:54:24,368 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-11-23 22:56:43,220 ] Asset loading complete
+[ 2022-11-23 22:56:49,656 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 22:56:51,069 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-23 22:56:51,070 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-11-23 22:56:51,070 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-11-23 22:56:51,164 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Testador" )
+[ 2022-11-23 22:56:51,170 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:56:51,182 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-23 22:56:52,126 ] News query failed: "Unrecognized event news."
+[ 2022-11-23 22:56:53,043 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-11-23 22:56:53,044 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-11-23 22:56:53,044 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-11-24 10:54:55,963 ] Asset loading complete
+[ 2022-11-24 10:56:42,521 ] Asset loading complete
+[ 2022-11-24 10:56:46,712 ] News query failed: "Unrecognized event news."
+[ 2022-11-24 10:56:48,600 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-24 10:56:48,600 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-11-24 10:56:48,600 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-11-24 10:56:48,702 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Toni Reinbold" )
+[ 2022-11-24 10:56:48,708 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-24 10:56:48,719 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-24 10:56:49,657 ] News query failed: "Unrecognized event news."
+[ 2022-11-24 10:57:21,831 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Testera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-24 10:57:21,890 ] Disconnected from gameserver
+[ 2022-11-24 10:57:22,228 ] News query failed: "Unrecognized event news."
+[ 2022-11-24 10:57:34,835 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-24 10:57:35,558 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Toni Reinbold" )
+[ 2022-11-24 10:57:35,560 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-24 10:57:35,572 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Testera"
+[ 2022-11-24 10:57:36,481 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
