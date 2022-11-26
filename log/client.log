@@ -301,3 +301,4 @@
 [ 2022-11-26 20:45:03,990 ] Disconnected from gameserver
 [ 2022-11-26 20:45:04,048 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://158.69.157.183/login.php") ) due to too many retries.
 [ 2022-11-26 22:14:08,649 ] Asset loading complete
+[ 2022-11-26 22:14:34,769 ] Asset loading complete
